@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/CFSWebsite/static/css/main.d5c014fc.css",
-    "main.js": "/CFSWebsite/static/js/main.b9b50aed.js",
+    "main.js": "/CFSWebsite/static/js/main.f702126c.js",
     "static/js/453.03acf33f.chunk.js": "/CFSWebsite/static/js/453.03acf33f.chunk.js",
     "static/media/CFSHistory.png": "/CFSWebsite/static/media/CFSHistory.5b64f0380c3cb811ebb4.png",
     "static/media/goldlogo.png": "/CFSWebsite/static/media/goldlogo.2e853fe8372cf0393dcc.png",
     "static/media/shovel.jpeg": "/CFSWebsite/static/media/shovel.3a005b66d3436790e759.jpeg",
     "index.html": "/CFSWebsite/index.html",
     "main.d5c014fc.css.map": "/CFSWebsite/static/css/main.d5c014fc.css.map",
-    "main.b9b50aed.js.map": "/CFSWebsite/static/js/main.b9b50aed.js.map",
+    "main.f702126c.js.map": "/CFSWebsite/static/js/main.f702126c.js.map",
     "453.03acf33f.chunk.js.map": "/CFSWebsite/static/js/453.03acf33f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5c014fc.css",
-    "static/js/main.b9b50aed.js"
+    "static/js/main.f702126c.js"
   ]
 }
